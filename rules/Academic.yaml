@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,acs.org
+  - DOMAIN-SUFFIX,rsc.org
